@@ -81,4 +81,4 @@ Aproximadamente sobre lucro: depende do tamanho do empréstimo e situação de m
 
 Boa sorte!
 
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=README_PT_PAGE_ID)
